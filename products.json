@@ -1,0 +1,9 @@
+[
+  {
+    "name": "New Product",
+    "description": "This is a new product.",
+    "price": 19.99,
+    "category": "Category C",
+    "id": 3
+  }
+]
