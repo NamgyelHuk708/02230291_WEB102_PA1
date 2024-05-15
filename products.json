@@ -1,9 +1,37 @@
 [
   {
-    "name": "New Product",
-    "description": "This is a new product.",
+    "id": "1",
+    "name": "Apple iPhone 13 Pro Max",
+    "description": "The latest flagship iPhone with a stunning OLED display and powerful A15 Bionic chip.",
+    "price": 1099.99,
+    "category": "Electronics"
+  },
+  {
+    "id": "3",
+    "name": "Sony X950H 65-inch 4K HDR LED TV",
+    "description": "A high-end 4K television with advanced picture and sound quality.",
     "price": 19.99,
-    "category": "Category C",
-    "id": 3
+    "category": "Electronics"
+  },
+  {
+    "id": "4",
+    "name": "Vitamix Explorian Blender",
+    "description": "A high-performance blender perfect for smoothies, soups, and more.",
+    "price": 349.99,
+    "category": "Home & Kitchen"
+  },
+  {
+    "name": "Dyson V15 Detect Cordless Vacuum Cleaner",
+    "description": "A powerful and intelligent cordless vacuum with advanced suction and filtration.",
+    "price": 649.99,
+    "category": "Home & Kitchen",
+    "id": "5"
+  },
+  {
+    "id": "1715790726213",
+    "name": "Dyson V15 Detect Cordless Vacuum Cleaner",
+    "description": "A powerful and intelligent cordless vacuum with advanced suction and filtration.",
+    "price": 699.99,
+    "category": "Home & Kitchen"
   }
 ]
